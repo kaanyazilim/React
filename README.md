@@ -1,4 +1,4 @@
-Rithal Tech Hub Platformu (https://rithaltechhub.com/)
+# Rithal Tech Hub Platformu (https://rithaltechhub.com/)
 Rithal Tech Hub, Türkiye ve Japonya arasında yenilikçilik, iş birliği ve kültürler arası etkileşimi teşvik etmeyi amaçlayan öncü bir platformdur. 
 Özellikler
 1. Kullanıcı Rolleri ve Giriş
